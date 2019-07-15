@@ -1,2 +1,2 @@
 # MIOJ
-Code for Xiaomi online judge.
+Code for [Xiaomi](code.mi.com) online judge.
